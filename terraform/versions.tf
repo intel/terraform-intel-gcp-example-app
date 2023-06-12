@@ -7,4 +7,10 @@ terraform {
       version = "~> 4.50"
     }
   }
+  cloud {
+    organization = "intel-hashicorp"
+    workspaces {
+      name = "intel-gcp-example-app"
+    }
+  }
 }
