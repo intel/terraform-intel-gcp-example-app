@@ -4,7 +4,7 @@ data "template_file" "user_data" {
 }
 
 module "linux_vm" {
-  source              = "github.com/intel/terraform-intel-gcp-vm?ref=amx"
+  source              = "github.com/intel/terraform-intel-gcp-vm"
   project             = var.project
   boot_image_project  = "ubuntu-os-cloud"
   boot_image_family   = "ubuntu-2204-lts"
