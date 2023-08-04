@@ -14,6 +14,7 @@ module "linux_vm" {
   project             = var.project
   boot_image_family   = "ubuntu-2204-lts"
   name                = "intel-spr-vm-1"
+  machine_type        = "c3-highmem-22"
   access_config = [{
     nat_ip                 = null
     public_ptr_domain_name = null
