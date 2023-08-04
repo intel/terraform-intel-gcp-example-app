@@ -20,5 +20,5 @@ module "linux_vm" {
     public_ptr_domain_name = null
     network_tier           = "PREMIUM"
   }, ]
-  tags               = [spr-fastchat-recipe-demo]
+  tags               = ["spr-fastchat-recipe-demo"]
 }
