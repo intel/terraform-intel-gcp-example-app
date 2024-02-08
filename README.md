@@ -1,27 +1,20 @@
-# terraform-intel-gcp-example-app
 
-<!-- BEGIN_TF_DOCS -->
-## Requirements
+<p align="center">
+  <img src="./images/logo-classicblue-800px.png" alt="Intel Logo" width="250"/>
+</p>
 
-No requirements.
+# WORK IN PROGRESS
 
-## Providers
+## Intel® Optimized Cloud Modules for Terraform
 
-No providers.
+© Copyright 2024, Intel Corporation
 
-## Modules
+## Overview
 
-No modules.
+This repository will showcase the integration across
 
-## Resources
+- Application CI/CD lifecycle  
+- Terraform Cloud
+- Intel Cloud Optimization Modules
+- Accompanying Sentinel Policies
 
-No resources.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
-<!-- END_TF_DOCS -->
