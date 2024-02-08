@@ -18,3 +18,29 @@ This repository will showcase the integration across
 - Intel Cloud Optimization Modules
 - Accompanying Sentinel Policies
 
+
+<!-- BEGIN_TF_DOCS -->
+## Requirements
+
+No requirements.
+
+## Providers
+
+No providers.
+
+## Modules
+
+No modules.
+
+## Resources
+
+No resources.
+
+## Inputs
+
+No inputs.
+
+## Outputs
+
+No outputs.
+<!-- END_TF_DOCS -->
